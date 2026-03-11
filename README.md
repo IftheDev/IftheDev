@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IftheDev" alt="visitor badge"/>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&background=0000FF00&width=435&lines=Hi+There!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Let%E2%80%99s+build+something+together!+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&background=0000FF00&width=450&lines=Hi%2C+I%27m+Ifthe!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Let%27s+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h3>
 
 <h3 align="center">Building Scalable & High-Performance Web Solutions 🇧🇩</h3>
