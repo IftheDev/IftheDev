@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Influencer Gear**
+ 🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **API, Node.js, React, Python**
 
